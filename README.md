@@ -13,7 +13,7 @@ component are described in the following paragraphs.
 
 DQ-MeeRKat is a research project initiated by Johannes Kepler
 University (<a href="https://www.jku.at/en/institute-for-application-oriented-knowledge-processing" target="_blank">
-JKU</a>) Linz and Software Competence Center Hagenberg (<a href="https://scch.at/en/news" target="_blank">SCCH</a>).
+JKU</a>) Linz and Software Competence Center Hagenberg (<a href="https://www.scch.at" target="_blank">SCCH</a>).
 Founded in July, 2019, back then under the title "BlocK-DaQ", its original purpose was to (1) research further on DQ
 measurement with the help of Reference Data Profiles (RDPs) and (2) storage in a Knowledge Graph and (3) on the trust
 aspect by ensuring authenticity of the RDPs with Blockchains.
